@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kacper0199/AGH-Navigator-App/blob/main/pictures/banner.png" width="700" height="200">
+  <img src="https://github.com/Kacper0199/AGH-Navigator-App/blob/main/pictures/banner.png" width="700" height="250">
 </p>
 <h1 align="center">AGH-Navigator-App</h1>
 
