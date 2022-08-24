@@ -151,7 +151,7 @@ class App:
     DESCRIPTION = "# This app was created using *Dijkstra's* algorithm to find the shortest \
                     path between buildings of AGH University of Science and Technology"
     MAP_WINDOW_HEIGHT = 550
-    MAP_WINDOW_WIDTH = 1000
+    MAP_WINDOW_WIDTH = 1100
 
     def __init__(self) -> None:
         self.speed = {"slow": 1.5, "walk": 2, "fast": 3}
