@@ -11,6 +11,8 @@
 
 </div>
 
+# Checkout [AGH Navigator Web App](https://agh-navigator.herokuapp.com/)
+
 ---
 
 The purpose of this project is to create AGH University of Science and Technology navigator app using Dijkstra's algorithm to find the shortest paths between the buildings.
