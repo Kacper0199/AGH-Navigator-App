@@ -19,7 +19,7 @@ The purpose of this project is to create AGH University of Science and Technolog
 
 ---
 
-- [1. Algorithms Preview](#1-app-preview)
+- [1. App Preview](#1-app-preview)
 - [2. Installation](#2-installation)
 
 ## 1. App Preview
